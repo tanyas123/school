@@ -1,2 +1,0 @@
-# school
-my first project
