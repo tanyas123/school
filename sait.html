@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .top-menu{
+
+            display: flex;
+            justify-content: space-between;
+
+        }
+        .top-menu img{
+            width: 300px;
+            object-fit: contain;
+
+        }
+        ul{
+            display: flex;
+            flex-direction: row;
+            list-style-type: none;
+        }
+        a{
+            line-height: 40px;
+            text-decoration: none;
+            color: black;
+        }
+
+        a:hover{
+            color: blue;
+        }
+        .container{
+            width: 1200px;
+            margin: 0 auto;
+        }
+        .header{
+            margin-top: 80px;
+        }
+        li{
+            margin-left: 15px;
+        }
+        .kryzhki{
+            display: flex;
+            flex-direction: row;
+            margin: 100px 0;
+            justify-content: space-between;
+            color: white;
+
+
+        }
+        .circle-child{
+            width: 250px;
+            height: 250px;
+            border-radius: 50%;
+            text-align: center;
+            justify-content: center;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+
+        }
+        .one{
+            background: #f8425e;
+            margin-right: 20px;
+
+        }
+        .two{
+            background: #f8615c;
+            margin-right: 20px;
+
+        }
+        .three{
+            background: #f78e5b;
+            margin-right: 20px;
+
+        }
+        .four{
+            background: #f8b45c;
+
+        }
+        .kryzhki p{
+            padding: 0 20px;
+
+        }
+        .outline {
+            /*background: ;*/
+            outline: 1px solid gray;
+            border: 10px solid white;
+            width: 280px;
+            height: 190px;
+            background: #e1e2da;
+            margin: 60px 0;
+            display: flex;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+
+        }
+        .kartinki{
+            display: flex;
+            justify-content: space-between;
+            flex-direction: row;
+            padding: 0 100px;
+            border: 1px solid gray;
+        }
+        .opisanie-odin{
+            display: flex;
+            flex-direction: column;
+            flex-basis: 100%;
+            flex: 1;
+
+            border-right: 1px solid lightgrey;
+            padding-right: 100px;
+
+
+        }
+        .opisanie-dva{
+            display: flex;
+            flex-direction: column;
+            flex-basis: 100%;
+            flex: 1;
+
+            padding-left: 100px;
+
+        }
+        .tekst{
+            color: #575559;
+            margin: 100px 0 0;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            padding-bottom: 100px;
+            border-bottom: 1px solid lightgrey;
+
+
+        }
+        #date{
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="top-menu">
+            <img src="logo.PNG">
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">Services</a></li>
+                <li><a href="">Portfolio</a></li>
+                <li><a href="">Articles</a></li>
+                <li><a href="">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="kryzhki">
+            <div class="one circle-child">
+                <h3>Design</h3>
+                <p>We're expetrs when it comes to designing things that look & work great</p>
+            </div>
+            <div class="two circle-child">
+                <h3>Creative</h3>
+                <p>We love being creative and developing innovative solutions</p>
+            </div>
+            <div class="three circle-child">
+                <h3>Usable</h3>
+                <p>Usability is our passion and we've years of experience working in this area</p>
+            </div>
+            <div class="four circle-child">
+                <h3>Original</h3>
+                <p>Being original is important to us and we strive to create novel online experiences</p>
+            </div>
+        </div>
+        <div class="kartinki">
+            <div class="outline">280 x 190px</div>
+            <div class="outline">280 x 190px</div>
+            <div class="outline">280 x 190px</div>
+        </div>
+
+        <div class="tekst">
+        <div class="opisanie-odin">
+            <h3>Why Work With Akono?</h3>
+            <p>You'll not regret getting in touch with us about your new project. Below are some of the benefits.</p>
+            <p style="padding-left: 40px">Over 15 Years Real World Experience</p>
+            <p style="padding-left: 40px">Voted No. 1 Design Studio In The World</p>
+            <p style="padding-left: 40px">Support And Guidance At Every Step</p>
+            <p style="padding-left: 40px">A Great Solution That You'll Be Happy With</p>
+        </div>
+        <div class="opisanie-dva">
+            <h3>Latest Article</h3>
+            <a href="" style="color: blue">Top Tips For Hiring A Design Agency</a>
+            <p id="date">1st May 2011 / No Comments >></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquam deleniti ducimus, eaque illum, itaque nemo nihil porro quidem reiciendis rem repellat rerum veritatis voluptates voluptatibus voluptatum. </p>
+            <a href="" style="color: lightgrey; padding-left: 40px">Read More >></a>
+        </div>
+        </div>
+        <div style="color: #575559">
+            <p>Copyright 	&copy; <a href="" style="color: blue">Domain Name</a>  - All Rights Reserved / Design By <a href="" style="color: blue">Chris Creed</a> </p>
+        </div>
+
+
+    </div>
+</div>
+
+</body>
+</html>
