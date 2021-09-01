@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            background: #f6f7fb;
+        }
+        .header{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+        .header p{
+            padding: 30px 5px;
+        }
+        #prog{
+            color: red;
+        }
+        .kartinki1 {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: flex-end;
+            text-align: center;
+            padding-top: 30px;
+            font-family: Calibri;
+            font-weight: lighter;
+
+        }
+        .start1{
+            border: 1px solid lightgray;
+            width: 400px;
+            border-right: none;
+            background: white;
+            -webkit-box-shadow: -9px -9px 30px -14px rgba(34, 60, 80, 0.07);
+            -moz-box-shadow: -9px -9px 30px -14px rgba(34, 60, 80, 0.07);
+            box-shadow: -9px -9px 30px -14px rgba(34, 60, 80, 0.07);
+        }
+        .hit1{
+            position: relative;
+            border: 1px solid lightgray;
+            width: 400px;
+            background: white;
+            -webkit-box-shadow: 0px -6px 30px -14px rgba(34, 60, 80, 0.07);
+            -moz-box-shadow: 0px -6px 30px -14px rgba(34, 60, 80, 0.07);
+            box-shadow: 0px -6px 30px -14px rgba(34, 60, 80, 0.07);
+
+        }
+        .max1{
+            border: 1px solid lightgray;
+            width: 400px;
+            border-left: none;
+            background: white;
+            -webkit-box-shadow: 9px -9px 30px -14px rgba(34, 60, 80, 0.07);
+            -moz-box-shadow: 9px -9px 30px -14px rgba(34, 60, 80, 0.07);
+            box-shadow: 9px -9px 30px -14px rgba(34, 60, 80, 0.07);
+        }
+        .kartinki1 h2{
+            border-bottom: 1px solid lightgray;
+            padding-bottom: 20px;
+
+        }
+        .pusto{
+            height: 40px;
+
+        }
+        .kartinki1 input {
+            background: #f24729;
+            color: white;
+            padding: 20px;
+            width: 300px;
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 0 40px rgba(0, 0, 0, .1) inset;
+            border-radius: 5px;
+
+        }
+        .tekst1{
+            font-size: 30px;
+        }
+
+
+    </style>
+</head>
+<body>
+<div class="header">
+    <p>НАШИ</p>
+    <p id="prog">ПРОГРАММЫ</p>
+    <p>ЗАЙМОВ</p>
+</div>
+<div class="kartinki1">
+    <div class="start1">
+        <h2>Старт</h2>
+        <img src="ico11.png">
+        <p class="tekst1">до 15 000 </p>
+        <p style="line-height: 2px">до 15 дней</p>
+        <p style="line-height: 2px; padding-bottom: 10px">0% в день</p>
+        <p><input type="button" value="Подробнее"></p>
+    </div>
+
+    <div class="hit1">
+        <h2>Хит</h2>
+        <div class="pusto"></div>
+        <img src="ico12.png">
+        <p class="tekst1">до 30 000 </p>
+        <p style="line-height: 2px">до 30 дней</p>
+        <p style="line-height: 2px; padding-bottom: 10px">0.9% в день</p>
+        <p><input type="button" value="Подробнее"></p>
+    </div>
+
+    <div class="max1">
+        <h2>Макс</h2>
+        <img src="ico13.png">
+        <p class="tekst1">до 60 000 </p>
+        <p style="line-height: 2px">от 10 до 20 недель</p>
+        <p style="line-height: 2px; padding-bottom: 10px">0.65% в день</p>
+        <p><input type="button" value="Подробнее"></p>
+    </div>
+</div>
+</body>
+</html>
