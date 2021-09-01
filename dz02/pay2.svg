@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 132 83"
+	 style="enable-background:new 0 0 132 83;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F9F9F9;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FBB231;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#EC1C2E;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:0.216;stroke-miterlimit:2.6131;}
+</style>
+<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c145 79.163499, 2018/08/13-16:40:22        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/">
+         <dc:format>image/svg+xml</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Web</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:CreatorTool>Adobe Illustrator CC 23.0 (Windows)</xmp:CreatorTool>
+         <xmp:CreateDate>2019-03-19T21:33:36+03:00</xmp:CreateDate>
+         <xmp:ModifyDate>2019-03-19T21:33:36+03:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2019-03-19T21:33:36+03:00</xmp:MetadataDate>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>160</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgAoAEAAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9RsxY+2KrcVdirsVdirs&#xA;VdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdiq5WKn2xVbirsV&#xA;dirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVd&#xA;irsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdi&#xA;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&#xA;V2KuxV2KuxVcqlj7Yq//2Q==</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:OriginalDocumentID>uuid:65E6390686CF11DBA6E2D887CEACB407</xmpMM:OriginalDocumentID>
+         <xmpMM:DocumentID>xmp.did:8ae7805f-4257-4a42-8b8f-9f5d3b805a45</xmpMM:DocumentID>
+         <xmpMM:InstanceID>xmp.iid:8ae7805f-4257-4a42-8b8f-9f5d3b805a45</xmpMM:InstanceID>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:2e01c25c-c632-6f40-a921-995f07676fd6</stRef:instanceID>
+            <stRef:documentID>xmp.did:2e01c25c-c632-6f40-a921-995f07676fd6</stRef:documentID>
+            <stRef:originalDocumentID>uuid:65E6390686CF11DBA6E2D887CEACB407</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:271ff334-5d1e-7d42-ba1f-3c0cf92d9403</stEvt:instanceID>
+                  <stEvt:when>2019-03-19T21:32:48+03:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 23.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:8ae7805f-4257-4a42-8b8f-9f5d3b805a45</stEvt:instanceID>
+                  <stEvt:when>2019-03-19T21:33:36+03:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 23.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:StartupProfile>Web</illustrator:StartupProfile>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>132.000000</stDim:w>
+            <stDim:h>83.000000</stDim:h>
+            <stDim:unit>Pixels</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Red</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Yellow</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Green</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Cyan</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Blue</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Magenta</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=193 G=39 B=45</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>193</xmpG:red>
+                           <xmpG:green>39</xmpG:green>
+                           <xmpG:blue>45</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=237 G=28 B=36</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>237</xmpG:red>
+                           <xmpG:green>28</xmpG:green>
+                           <xmpG:blue>36</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=241 G=90 B=36</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>241</xmpG:red>
+                           <xmpG:green>90</xmpG:green>
+                           <xmpG:blue>36</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=247 G=147 B=30</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>247</xmpG:red>
+                           <xmpG:green>147</xmpG:green>
+                           <xmpG:blue>30</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=251 G=176 B=59</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>251</xmpG:red>
+                           <xmpG:green>176</xmpG:green>
+                           <xmpG:blue>59</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=252 G=238 B=33</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>252</xmpG:red>
+                           <xmpG:green>238</xmpG:green>
+                           <xmpG:blue>33</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=217 G=224 B=33</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>217</xmpG:red>
+                           <xmpG:green>224</xmpG:green>
+                           <xmpG:blue>33</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=140 G=198 B=63</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>140</xmpG:red>
+                           <xmpG:green>198</xmpG:green>
+                           <xmpG:blue>63</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=57 G=181 B=74</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>57</xmpG:red>
+                           <xmpG:green>181</xmpG:green>
+                           <xmpG:blue>74</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=146 B=69</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>146</xmpG:green>
+                           <xmpG:blue>69</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=104 B=55</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>104</xmpG:green>
+                           <xmpG:blue>55</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=34 G=181 B=115</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>34</xmpG:red>
+                           <xmpG:green>181</xmpG:green>
+                           <xmpG:blue>115</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=169 B=157</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>169</xmpG:green>
+                           <xmpG:blue>157</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=41 G=171 B=226</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>41</xmpG:red>
+                           <xmpG:green>171</xmpG:green>
+                           <xmpG:blue>226</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=113 B=188</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>113</xmpG:green>
+                           <xmpG:blue>188</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=46 G=49 B=146</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>46</xmpG:red>
+                           <xmpG:green>49</xmpG:green>
+                           <xmpG:blue>146</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=27 G=20 B=100</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>27</xmpG:red>
+                           <xmpG:green>20</xmpG:green>
+                           <xmpG:blue>100</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=102 G=45 B=145</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>102</xmpG:red>
+                           <xmpG:green>45</xmpG:green>
+                           <xmpG:blue>145</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=147 G=39 B=143</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>147</xmpG:red>
+                           <xmpG:green>39</xmpG:green>
+                           <xmpG:blue>143</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=158 G=0 B=93</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>158</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>93</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=212 G=20 B=90</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>212</xmpG:red>
+                           <xmpG:green>20</xmpG:green>
+                           <xmpG:blue>90</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=237 G=30 B=121</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>237</xmpG:red>
+                           <xmpG:green>30</xmpG:green>
+                           <xmpG:blue>121</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=199 G=178 B=153</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>199</xmpG:red>
+                           <xmpG:green>178</xmpG:green>
+                           <xmpG:blue>153</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=153 G=134 B=117</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>153</xmpG:red>
+                           <xmpG:green>134</xmpG:green>
+                           <xmpG:blue>117</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=115 G=99 B=87</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>115</xmpG:red>
+                           <xmpG:green>99</xmpG:green>
+                           <xmpG:blue>87</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=83 G=71 B=65</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>83</xmpG:red>
+                           <xmpG:green>71</xmpG:green>
+                           <xmpG:blue>65</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=198 G=156 B=109</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>198</xmpG:red>
+                           <xmpG:green>156</xmpG:green>
+                           <xmpG:blue>109</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=166 G=124 B=82</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>166</xmpG:red>
+                           <xmpG:green>124</xmpG:green>
+                           <xmpG:blue>82</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=140 G=98 B=57</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>140</xmpG:red>
+                           <xmpG:green>98</xmpG:green>
+                           <xmpG:blue>57</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=117 G=76 B=36</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>117</xmpG:red>
+                           <xmpG:green>76</xmpG:green>
+                           <xmpG:blue>36</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=96 G=56 B=19</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>96</xmpG:red>
+                           <xmpG:green>56</xmpG:green>
+                           <xmpG:blue>19</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=66 G=33 B=11</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>66</xmpG:red>
+                           <xmpG:green>33</xmpG:green>
+                           <xmpG:blue>11</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=0 B=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=26 G=26 B=26</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>26</xmpG:red>
+                           <xmpG:green>26</xmpG:green>
+                           <xmpG:blue>26</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=51 G=51 B=51</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>51</xmpG:red>
+                           <xmpG:green>51</xmpG:green>
+                           <xmpG:blue>51</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=77 G=77 B=77</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>77</xmpG:red>
+                           <xmpG:green>77</xmpG:green>
+                           <xmpG:blue>77</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=102 G=102 B=102</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>102</xmpG:red>
+                           <xmpG:green>102</xmpG:green>
+                           <xmpG:blue>102</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=128 G=128 B=128</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>128</xmpG:red>
+                           <xmpG:green>128</xmpG:green>
+                           <xmpG:blue>128</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=153 G=153 B=153</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>153</xmpG:red>
+                           <xmpG:green>153</xmpG:green>
+                           <xmpG:blue>153</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=179 G=179 B=179</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>179</xmpG:red>
+                           <xmpG:green>179</xmpG:green>
+                           <xmpG:blue>179</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=204 G=204 B=204</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>204</xmpG:red>
+                           <xmpG:green>204</xmpG:green>
+                           <xmpG:blue>204</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=230 G=230 B=230</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>230</xmpG:red>
+                           <xmpG:green>230</xmpG:green>
+                           <xmpG:blue>230</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=242 G=242 B=242</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>242</xmpG:red>
+                           <xmpG:green>242</xmpG:green>
+                           <xmpG:blue>242</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Web Color Group</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=63 G=169 B=245</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>63</xmpG:red>
+                           <xmpG:green>169</xmpG:green>
+                           <xmpG:blue>245</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=122 G=201 B=67</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>122</xmpG:red>
+                           <xmpG:green>201</xmpG:green>
+                           <xmpG:blue>67</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=255 G=147 B=30</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>147</xmpG:green>
+                           <xmpG:blue>30</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=255 G=29 B=37</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>29</xmpG:green>
+                           <xmpG:blue>37</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=255 G=123 B=172</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>123</xmpG:green>
+                           <xmpG:blue>172</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=189 G=204 B=212</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>189</xmpG:red>
+                           <xmpG:green>204</xmpG:green>
+                           <xmpG:blue>212</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 15.00</pdf:Producer>
+         <pdfx:CreatorVersion>21.0.0</pdfx:CreatorVersion>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+	</metadata>
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			<path class="st0" d="M128.7,76.5c0,2.3-1.9,4.2-4.2,4.2H7.5c-2.3,0-4.2-1.9-4.2-4.2v-70c0-2.3,1.9-4.2,4.2-4.2h117.1
+				c2.3,0,4.2,1.9,4.2,4.2V76.5z"/>
+			<g>
+				<polygon class="st1" points="81.1,64 82.2,64 83.4,63.9 84.5,63.7 85.6,63.5 86.7,63.3 87.8,63 88.8,62.6 89.8,62.2 90.8,61.8 
+					91.8,61.3 92.7,60.7 93.7,60.2 94.5,59.5 95.4,58.9 96.2,58.2 97,57.4 97.7,56.6 98.5,55.8 99.1,54.9 99.7,54.1 100.3,53.1 
+					100.9,52.2 101.4,51.2 101.8,50.2 102.2,49.2 102.6,48.2 102.9,47.1 103.1,46 103.3,44.9 103.5,43.8 103.6,42.6 103.6,41.5 
+					103.6,40.3 103.5,39.2 103.3,38 103.1,36.9 102.9,35.9 102.6,34.8 102.2,33.7 101.8,32.7 101.4,31.7 100.9,30.8 100.3,29.8 
+					99.7,28.9 99.1,28 98.5,27.2 97.7,26.4 97,25.6 96.2,24.8 95.4,24.1 94.5,23.5 93.7,22.8 92.7,22.3 91.8,21.7 90.8,21.2 
+					89.8,20.8 88.8,20.4 87.8,20 86.7,19.7 85.6,19.5 84.5,19.3 83.4,19.1 82.2,19 81.1,19 79.9,19 78.8,19.1 77.6,19.3 76.5,19.5 
+					75.4,19.7 74.4,20 73.3,20.4 72.3,20.8 71.3,21.2 70.3,21.7 69.4,22.3 68.5,22.8 67.6,23.5 66.8,24.1 65.9,24.8 65.2,25.6 
+					64.4,26.4 63.7,27.2 63,28 62.4,28.9 61.8,29.8 61.3,30.8 60.8,31.7 60.4,32.7 59.9,33.7 59.6,34.8 59.3,35.9 59,36.9 58.8,38 
+					58.7,39.2 58.6,40.3 58.6,41.5 58.6,42.6 58.7,43.8 58.8,44.9 59,46 59.3,47.1 59.6,48.2 59.9,49.2 60.4,50.2 60.8,51.2 
+					61.3,52.2 61.8,53.1 62.4,54.1 63,54.9 63.7,55.8 64.4,56.6 65.2,57.4 65.9,58.2 66.8,58.9 67.6,59.5 68.5,60.2 69.4,60.7 
+					70.3,61.3 71.3,61.8 72.3,62.2 73.3,62.6 74.4,63 75.4,63.3 76.5,63.5 77.6,63.7 78.8,63.9 79.9,64 81.1,64 81.1,64 				"/>
+				<polygon class="st2" points="50.9,64 52.1,64 53.2,63.9 54.4,63.7 55.5,63.5 56.6,63.3 57.6,63 58.7,62.6 59.7,62.2 60.7,61.8 
+					61.7,61.3 62.6,60.7 63.5,60.2 64.4,59.5 65.2,58.9 66.1,58.2 66.8,57.4 67.6,56.6 68.3,55.8 69,54.9 69.6,54.1 70.2,53.1 
+					70.7,52.2 71.2,51.2 71.6,50.2 72,49.2 72.4,48.2 72.7,47.1 73,46 73.1,44.9 73.3,43.8 73.4,42.6 73.4,41.5 73.4,40.3 
+					73.3,39.2 73.1,38 73,36.9 72.7,35.9 72.4,34.8 72,33.7 71.6,32.7 71.2,31.7 70.7,30.8 70.2,29.8 69.6,28.9 69,28 68.3,27.2 
+					67.6,26.4 66.8,25.6 66.1,24.8 65.2,24.1 64.4,23.5 63.5,22.8 62.6,22.3 61.7,21.7 60.7,21.2 59.7,20.8 58.7,20.4 57.6,20 
+					56.6,19.7 55.5,19.5 54.4,19.3 53.2,19.1 52.1,19 50.9,19 49.8,19 48.6,19.1 47.5,19.3 46.4,19.5 45.3,19.7 44.2,20 43.2,20.4 
+					42.2,20.8 41.2,21.2 40.2,21.7 39.3,22.3 38.3,22.8 37.5,23.5 36.6,24.1 35.8,24.8 35,25.6 34.3,26.4 33.5,27.2 32.9,28 
+					32.3,28.9 31.7,29.8 31.1,30.8 30.6,31.7 30.2,32.7 29.8,33.7 29.4,34.8 29.1,35.9 28.9,36.9 28.7,38 28.5,39.2 28.4,40.3 
+					28.4,41.5 28.4,42.6 28.5,43.8 28.7,44.9 28.9,46 29.1,47.1 29.4,48.2 29.8,49.2 30.2,50.2 30.6,51.2 31.1,52.2 31.7,53.1 
+					32.3,54.1 32.9,54.9 33.5,55.8 34.3,56.6 35,57.4 35.8,58.2 36.6,58.9 37.5,59.5 38.3,60.2 39.3,60.7 40.2,61.3 41.2,61.8 
+					42.2,62.2 43.2,62.6 44.2,63 45.3,63.3 46.4,63.5 47.5,63.7 48.6,63.9 49.8,64 50.9,64 50.9,64 				"/>
+				<polygon class="st1" points="63.4,27.6 75.3,27.6 75.3,26.4 64.4,26.4 63.4,27.6 63.4,27.6 				"/>
+				<polygon class="st1" points="61.6,30.3 75.3,30.3 75.3,29.1 62.3,29.1 61.6,30.3 61.6,30.3 				"/>
+				<polygon class="st1" points="60.2,33.1 75.3,33.1 75.3,31.8 60.8,31.8 60.2,33.1 60.2,33.1 				"/>
+				<polygon class="st1" points="59.3,35.8 75.3,35.8 75.3,34.6 59.7,34.6 59.3,35.8 59.3,35.8 				"/>
+				<polygon class="st1" points="59.9,48.9 75.4,48.9 75.4,47.7 59.5,47.7 59.9,48.9 59.9,48.9 				"/>
+				<polygon class="st1" points="61,51.6 75.4,51.6 75.4,50.4 60.4,50.4 61,51.6 61,51.6 				"/>
+				<polygon class="st1" points="62.6,54.3 75.4,54.3 75.4,53.1 61.8,53.1 62.6,54.3 62.6,54.3 				"/>
+				<polygon class="st1" points="64.8,57.1 75.4,57.1 75.4,55.8 63.8,55.8 64.8,57.1 64.8,57.1 				"/>
+				<polygon class="st1" points="58.8,38.5 75.3,38.5 75.3,37.3 59,37.3 58.8,38.5 58.8,38.5 				"/>
+				<polygon class="st1" points="68.9,46.2 75.2,46.2 75.2,45 69.1,45 68.9,46.2 68.9,46.2 				"/>
+				<polygon class="st1" points="69.4,43.5 75.2,43.5 75.2,42.3 69.6,42.3 69.4,43.5 69.4,43.5 				"/>
+				<polygon class="st1" points="58.4,42.3 60,42.3 60,43.5 58.4,43.5 58.4,42.3 58.4,42.3 				"/>
+				<polygon class="st3" points="55.3,40.8 55.2,40.8 55.1,40.8 55,40.7 54.9,40.7 54.8,40.7 54.7,40.7 54.6,40.7 54.5,40.7 
+					54.4,40.6 54.3,40.6 54.1,40.6 54,40.6 53.8,40.6 53.7,40.6 53.5,40.6 53.2,40.7 53.1,40.7 52.9,40.7 52.8,40.8 52.7,40.8 
+					52.6,40.9 52.5,40.9 52.4,41 52.4,41.1 52.3,41.1 52.3,41.2 52.3,41.3 52.3,41.4 52.3,41.5 52.3,41.6 52.4,41.7 52.4,41.8 
+					52.6,41.9 52.8,42.1 53,42.2 53.2,42.2 53.5,42.3 53.7,42.4 54,42.5 54.2,42.6 54.4,42.7 54.6,42.9 54.8,43.1 55,43.3 
+					55.1,43.6 55.2,43.9 55.2,44.3 55.2,44.8 55.1,45.2 55,45.5 54.9,45.8 54.8,46 54.6,46.2 54.4,46.4 54.2,46.6 54,46.8 
+					53.7,46.9 53.5,47 53.2,47 52.9,47.1 52.7,47.1 52.4,47.2 52.2,47.2 51.9,47.2 51.6,47.2 51.3,47.2 51,47.2 50.8,47.2 
+					50.6,47.2 50.4,47.2 50.2,47.1 50,47.1 49.8,47.1 49.7,47.1 49.6,47 49.4,47 49.3,47 49.2,46.9 49.1,46.9 48.9,46.8 49.3,45.2 
+					49.3,45.2 49.4,45.2 49.5,45.2 49.7,45.3 49.8,45.3 49.9,45.3 50.1,45.4 50.3,45.4 50.5,45.4 50.7,45.5 50.9,45.5 51.1,45.5 
+					51.3,45.5 51.5,45.5 51.8,45.5 52,45.5 52.2,45.5 52.4,45.4 52.5,45.3 52.6,45.2 52.7,45.1 52.8,45 52.8,44.9 52.8,44.7 
+					52.8,44.5 52.8,44.3 52.6,44.2 52.5,44.1 52.2,43.9 52,43.8 51.7,43.7 51.4,43.6 51.1,43.5 50.8,43.3 50.5,43.1 50.3,42.9 
+					50.1,42.6 49.9,42.2 49.9,41.8 49.9,41.3 49.9,41 50,40.8 50,40.5 50.1,40.3 50.3,40 50.4,39.8 50.6,39.7 50.7,39.5 51,39.3 
+					51.2,39.2 51.5,39.1 51.8,39 52.1,39 52.5,38.9 52.9,38.9 53.4,38.9 53.6,38.9 53.9,38.9 54.1,38.9 54.3,38.9 54.5,38.9 
+					54.7,38.9 54.9,38.9 55,38.9 55.1,39 55.2,39 55.3,39 55.4,39 55.5,39 55.6,39 55.6,39.1 55.7,39.1 55.3,40.8 55.3,40.8 				"/>
+				<polyline class="st4" points="55.3,40.8 55.3,40.8 55.2,40.8 55.1,40.8 55,40.7 54.9,40.7 54.8,40.7 54.7,40.7 54.6,40.7 
+					54.5,40.7 54.4,40.6 54.3,40.6 54.1,40.6 54,40.6 53.8,40.6 53.7,40.6 53.5,40.6 53.2,40.7 53.2,40.7 53.1,40.7 52.9,40.7 
+					52.8,40.8 52.7,40.8 52.6,40.9 52.5,40.9 52.4,41 52.4,41.1 52.3,41.1 52.3,41.2 52.3,41.3 52.3,41.4 52.3,41.5 52.3,41.6 
+					52.4,41.7 52.4,41.8 52.4,41.8 52.6,41.9 52.8,42.1 53,42.2 53.2,42.2 53.5,42.3 53.7,42.4 54,42.5 54.2,42.6 54.4,42.7 
+					54.6,42.9 54.8,43.1 55,43.3 55.1,43.6 55.2,43.9 55.2,44.3 55.2,44.8 55.2,44.8 55.1,45.2 55,45.5 54.9,45.8 54.8,46 
+					54.6,46.2 54.4,46.4 54.2,46.6 54,46.8 53.7,46.9 53.5,47 53.2,47 52.9,47.1 52.7,47.1 52.4,47.2 52.2,47.2 51.9,47.2 
+					51.9,47.2 51.6,47.2 51.3,47.2 51,47.2 50.8,47.2 50.6,47.2 50.4,47.2 50.2,47.1 50,47.1 49.8,47.1 49.7,47.1 49.6,47 49.4,47 
+					49.3,47 49.2,46.9 49.1,46.9 48.9,46.8 49.3,45.2 49.3,45.2 49.3,45.2 49.4,45.2 49.5,45.2 49.7,45.3 49.8,45.3 49.9,45.3 
+					50.1,45.4 50.3,45.4 50.5,45.4 50.7,45.5 50.9,45.5 51.1,45.5 51.3,45.5 51.5,45.5 51.8,45.5 52,45.5 52,45.5 52.2,45.5 
+					52.4,45.4 52.5,45.3 52.6,45.2 52.7,45.1 52.8,45 52.8,44.9 52.8,44.7 52.8,44.7 52.8,44.5 52.8,44.3 52.6,44.2 52.5,44.1 
+					52.2,43.9 52,43.8 51.7,43.7 51.4,43.6 51.1,43.5 50.8,43.3 50.5,43.1 50.3,42.9 50.1,42.6 49.9,42.2 49.9,41.8 49.9,41.3 
+					49.9,41.3 49.9,41 50,40.8 50,40.5 50.1,40.3 50.3,40 50.4,39.8 50.6,39.7 50.7,39.5 51,39.3 51.2,39.2 51.5,39.1 51.8,39 
+					52.1,39 52.5,38.9 52.9,38.9 53.4,38.9 53.4,38.9 53.6,38.9 53.9,38.9 54.1,38.9 54.3,38.9 54.5,38.9 54.7,38.9 54.9,38.9 
+					55,38.9 55.1,39 55.2,39 55.3,39 55.4,39 55.5,39 55.6,39 55.6,39.1 55.7,39.1 55.3,40.8 				"/>
+				<polygon class="st3" points="57.1,37.2 59.2,37.2 58.9,39 60.2,39 59.9,40.7 58.6,40.7 57.8,44.9 57.8,45.1 57.9,45.2 
+					57.9,45.3 58,45.4 58.2,45.5 58.3,45.5 58.5,45.5 58.7,45.5 58.8,45.5 59,45.5 59.1,45.5 59.2,45.5 59.3,45.4 59.4,45.4 
+					59.5,45.4 59.5,45.4 59.2,46.8 59.2,46.8 59.1,46.9 59,46.9 59,46.9 58.9,47 58.9,47 58.8,47 58.7,47 58.7,47 58.6,47.1 
+					58.5,47.1 58.4,47.1 58.3,47.1 58.2,47.1 58.1,47.1 57.9,47.2 57.4,47.2 57.1,47.1 56.8,47.1 56.6,47.1 56.4,47 56.2,46.9 
+					56,46.9 55.9,46.8 55.8,46.7 55.7,46.6 55.7,46.4 55.6,46.3 55.6,46.2 55.6,46 55.6,45.8 55.6,45.7 55.7,45.5 57.1,37.2 
+					57.1,37.2 				"/>
+				<polyline class="st4" points="57.1,37.2 59.2,37.2 58.9,39 60.2,39 59.9,40.7 58.6,40.7 57.8,44.9 57.8,44.9 57.8,45.1 
+					57.9,45.2 57.9,45.3 58,45.4 58.2,45.5 58.3,45.5 58.5,45.5 58.7,45.5 58.7,45.5 58.8,45.5 59,45.5 59.1,45.5 59.2,45.5 
+					59.3,45.4 59.4,45.4 59.5,45.4 59.5,45.4 59.2,46.8 59.2,46.8 59.2,46.8 59.1,46.9 59,46.9 59,46.9 58.9,47 58.9,47 58.8,47 
+					58.7,47 58.7,47 58.6,47.1 58.5,47.1 58.4,47.1 58.3,47.1 58.2,47.1 58.1,47.1 57.9,47.2 57.4,47.2 57.4,47.2 57.1,47.1 
+					56.8,47.1 56.6,47.1 56.4,47 56.2,46.9 56,46.9 55.9,46.8 55.8,46.7 55.7,46.6 55.7,46.4 55.6,46.3 55.6,46.2 55.6,46 
+					55.6,45.8 55.6,45.7 55.7,45.5 57.1,37.2 				"/>
+				<polyline class="st4" points="61.8,43.6 61.8,43.6 61.8,43.7 61.8,43.9 61.8,44 61.9,44.2 61.9,44.3 62,44.4 62.1,44.6 
+					62.1,44.7 62.2,44.8 62.4,45 62.5,45.1 62.6,45.2 62.8,45.2 62.9,45.3 63.1,45.4 63.2,45.4 63.2,45.4 63.4,45.4 63.6,45.4 
+					63.8,45.5 64,45.5 64.2,45.5 64.4,45.5 64.6,45.5 64.8,45.5 65,45.4 65.2,45.4 65.4,45.4 65.6,45.3 65.8,45.2 66.1,45.1 
+					66.3,45 66.5,44.9 66.2,46.7 66.2,46.7 66.1,46.8 65.9,46.8 65.8,46.9 65.7,46.9 65.6,47 65.5,47 65.4,47 65.2,47.1 65.1,47.1 
+					64.9,47.1 64.8,47.1 64.6,47.1 64.4,47.1 64.2,47.1 64,47.2 63.7,47.2 63.7,47.2 63.3,47.1 63,47.1 62.6,47.1 62.2,47 
+					61.8,46.8 61.5,46.7 61.1,46.5 60.8,46.3 60.5,46 60.3,45.7 60,45.4 59.9,45 59.7,44.5 59.6,44 59.6,43.5 59.7,42.8 59.7,42.8 
+					59.7,42.6 59.7,42.3 59.8,42 59.9,41.7 60,41.4 60.1,41 60.3,40.7 60.5,40.4 60.8,40.1 61.1,39.8 61.4,39.5 61.8,39.3 
+					62.2,39.1 62.7,39 63.3,38.9 63.9,38.9 63.9,38.9 64.2,38.9 64.5,38.9 64.8,39 65.1,39 65.4,39.1 65.7,39.3 66,39.5 66.2,39.7 
+					66.4,39.9 66.6,40.2 66.8,40.6 66.9,41 67,41.4 67,42 66.9,42.5 66.8,43.2 66.8,43.6 61.2,43.6 61.6,42.1 64.9,42.1 64.9,42.1 
+					64.9,42 64.9,41.8 64.9,41.6 64.9,41.5 64.8,41.3 64.8,41.2 64.7,41.1 64.6,41 64.5,40.9 64.4,40.8 64.3,40.7 64.2,40.7 
+					64.1,40.6 63.9,40.6 63.8,40.6 63.7,40.5 63.7,40.5 63.5,40.6 63.4,40.6 63.3,40.6 63.1,40.7 63,40.7 62.9,40.8 62.8,40.9 
+					62.7,41 62.6,41.1 62.5,41.2 62.4,41.3 62.3,41.4 62.3,41.6 62.2,41.7 62.2,41.9 62.1,42 61.8,43.6 				"/>
+				<polygon class="st3" points="79.9,39.5 79.8,39.4 79.7,39.4 79.6,39.3 79.5,39.3 79.4,39.2 79.3,39.2 79.2,39.1 79,39.1 
+					78.9,39.1 78.7,39 78.6,39 78.4,39 78.2,39 78.1,38.9 77.9,38.9 77.7,38.9 77.5,38.9 77.3,39 77.1,39 76.9,39 76.7,39.1 
+					76.5,39.2 76.2,39.3 76,39.4 75.8,39.6 75.6,39.8 75.4,40 75.3,40.3 75.1,40.6 74.9,41 74.8,41.4 74.7,41.9 74.6,42.2 
+					74.6,42.5 74.6,42.7 74.6,43 74.6,43.2 74.7,43.5 74.7,43.7 74.8,43.9 74.9,44.1 75.1,44.3 75.2,44.5 75.4,44.7 75.6,44.8 
+					75.8,44.9 76.1,45 76.4,45.1 76.5,45.1 76.6,45.1 76.7,45.1 76.9,45.2 77.1,45.2 77.2,45.2 77.4,45.2 77.6,45.2 77.8,45.1 
+					78,45.1 78.2,45 78.4,45 78.6,44.9 78.8,44.8 78.9,44.7 79.1,44.5 78.7,46.6 78.7,46.6 78.6,46.7 78.6,46.7 78.5,46.8 
+					78.4,46.8 78.3,46.9 78.2,46.9 78.1,47 77.9,47 77.7,47.1 77.5,47.1 77.2,47.1 76.9,47.1 76.6,47.1 76.2,47.1 75.7,47.1 
+					75.4,47.1 75,47 74.7,46.9 74.3,46.7 74,46.6 73.7,46.3 73.4,46.1 73.1,45.8 72.9,45.4 72.6,45 72.5,44.6 72.3,44.1 72.2,43.6 
+					72.2,43.1 72.2,42.5 72.3,41.9 72.4,41.6 72.4,41.3 72.5,41 72.6,40.7 72.7,40.4 72.8,40.2 72.9,39.9 73,39.7 73.1,39.4 
+					73.2,39.2 73.3,39 73.5,38.8 73.6,38.6 73.7,38.4 73.9,38.3 74.1,38.1 74.2,38 74.4,37.8 74.6,37.7 74.8,37.6 75,37.4 
+					75.2,37.3 75.4,37.3 75.6,37.2 75.9,37.1 76.1,37 76.3,37 76.6,36.9 76.9,36.9 77.1,36.9 77.4,36.9 77.7,36.8 77.9,36.9 
+					78.2,36.9 78.4,36.9 78.6,36.9 78.8,36.9 79,37 79.2,37 79.4,37.1 79.6,37.1 79.7,37.2 79.9,37.2 80,37.3 80.1,37.3 80.2,37.3 
+					80.3,37.4 80.3,37.4 79.9,39.5 79.9,39.5 				"/>
+				<polyline class="st4" points="79.9,39.5 79.9,39.5 79.8,39.4 79.7,39.4 79.6,39.3 79.5,39.3 79.4,39.2 79.3,39.2 79.2,39.1 
+					79,39.1 78.9,39.1 78.7,39 78.6,39 78.4,39 78.2,39 78.1,38.9 77.9,38.9 77.7,38.9 77.7,38.9 77.5,38.9 77.3,39 77.1,39 
+					76.9,39 76.7,39.1 76.5,39.2 76.2,39.3 76,39.4 75.8,39.6 75.6,39.8 75.4,40 75.3,40.3 75.1,40.6 74.9,41 74.8,41.4 74.7,41.9 
+					74.7,41.9 74.6,42.2 74.6,42.5 74.6,42.7 74.6,43 74.6,43.2 74.7,43.5 74.7,43.7 74.8,43.9 74.9,44.1 75.1,44.3 75.2,44.5 
+					75.4,44.7 75.6,44.8 75.8,44.9 76.1,45 76.4,45.1 76.4,45.1 76.5,45.1 76.6,45.1 76.7,45.1 76.9,45.2 77.1,45.2 77.2,45.2 
+					77.4,45.2 77.6,45.2 77.8,45.1 78,45.1 78.2,45 78.4,45 78.6,44.9 78.8,44.8 78.9,44.7 79.1,44.5 78.7,46.6 78.7,46.6 
+					78.7,46.6 78.6,46.7 78.6,46.7 78.5,46.8 78.4,46.8 78.3,46.9 78.2,46.9 78.1,47 77.9,47 77.7,47.1 77.5,47.1 77.2,47.1 
+					76.9,47.1 76.6,47.1 76.2,47.1 75.7,47.1 75.7,47.1 75.4,47.1 75,47 74.7,46.9 74.3,46.7 74,46.6 73.7,46.3 73.4,46.1 
+					73.1,45.8 72.9,45.4 72.6,45 72.5,44.6 72.3,44.1 72.2,43.6 72.2,43.1 72.2,42.5 72.3,41.9 72.3,41.9 72.4,41.6 72.4,41.3 
+					72.5,41 72.6,40.7 72.7,40.4 72.8,40.2 72.9,39.9 73,39.7 73.1,39.4 73.2,39.2 73.3,39 73.5,38.8 73.6,38.6 73.7,38.4 
+					73.9,38.3 74.1,38.1 74.2,38 74.4,37.8 74.6,37.7 74.8,37.6 75,37.4 75.2,37.3 75.4,37.3 75.6,37.2 75.9,37.1 76.1,37 76.3,37 
+					76.6,36.9 76.9,36.9 77.1,36.9 77.4,36.9 77.7,36.8 77.7,36.8 77.9,36.9 78.2,36.9 78.4,36.9 78.6,36.9 78.8,36.9 79,37 
+					79.2,37 79.4,37.1 79.6,37.1 79.7,37.2 79.9,37.2 80,37.3 80.1,37.3 80.2,37.3 80.3,37.4 80.3,37.4 79.9,39.5 				"/>
+				<polygon class="st3" points="98.6,47.2 96.5,47.2 96.7,46.3 96.7,46.2 96.6,46.4 96.4,46.5 96.3,46.6 96.2,46.8 96,46.8 
+					95.9,46.9 95.8,47 95.6,47.1 95.5,47.1 95.3,47.2 95.2,47.2 95,47.2 94.9,47.2 94.7,47.3 94.6,47.3 94.4,47.3 94,47.2 
+					93.7,47.2 93.3,47 93,46.8 92.8,46.6 92.5,46.4 92.3,46.1 92.1,45.8 92,45.4 91.8,45.1 91.8,44.7 91.7,44.3 91.7,43.9 
+					91.7,43.5 91.7,43.1 91.8,42.8 91.9,42.3 92,41.9 92.2,41.5 92.4,41.1 92.6,40.8 92.8,40.5 93.1,40.2 93.3,40 93.6,39.7 
+					93.9,39.6 94.1,39.4 94.4,39.3 94.7,39.2 95,39.1 95.3,39 95.6,39 95.9,39 96.1,39.1 96.3,39.1 96.5,39.1 96.6,39.2 96.8,39.3 
+					96.9,39.4 97.1,39.4 97.2,39.5 97.3,39.6 97.4,39.7 97.5,39.8 97.6,39.9 97.6,40 97.7,40.1 97.8,40.2 97.8,40.2 98.3,37.2 
+					100.3,37.2 98.6,47.2 98.6,47.2 				"/>
+				<polyline class="st4" points="98.6,47.2 96.5,47.2 96.7,46.3 96.7,46.2 96.7,46.2 96.6,46.4 96.4,46.5 96.3,46.6 96.2,46.8 
+					96,46.8 95.9,46.9 95.8,47 95.6,47.1 95.5,47.1 95.3,47.2 95.2,47.2 95,47.2 94.9,47.2 94.7,47.3 94.6,47.3 94.4,47.3 
+					94.4,47.3 94,47.2 93.7,47.2 93.3,47 93,46.8 92.8,46.6 92.5,46.4 92.3,46.1 92.1,45.8 92,45.4 91.8,45.1 91.8,44.7 91.7,44.3 
+					91.7,43.9 91.7,43.5 91.7,43.1 91.8,42.8 91.8,42.8 91.9,42.3 92,41.9 92.2,41.5 92.4,41.1 92.6,40.8 92.8,40.5 93.1,40.2 
+					93.3,40 93.6,39.7 93.9,39.6 94.1,39.4 94.4,39.3 94.7,39.2 95,39.1 95.3,39 95.6,39 95.6,39 95.9,39 96.1,39.1 96.3,39.1 
+					96.5,39.1 96.6,39.2 96.8,39.3 96.9,39.4 97.1,39.4 97.2,39.5 97.3,39.6 97.4,39.7 97.5,39.8 97.6,39.9 97.6,40 97.7,40.1 
+					97.8,40.2 97.8,40.2 98.3,37.2 100.3,37.2 98.6,47.2 				"/>
+				<polygon class="st1" points="95.2,45.3 95.4,45.3 95.6,45.3 95.8,45.2 96,45.1 96.1,45 96.3,44.9 96.4,44.8 96.5,44.6 
+					96.7,44.5 96.8,44.3 96.9,44.2 96.9,44 97,43.8 97.1,43.6 97.1,43.4 97.2,43.2 97.2,43 97.2,42.7 97.2,42.5 97.2,42.3 
+					97.2,42.1 97.2,41.9 97.1,41.8 97.1,41.6 97,41.4 96.9,41.3 96.8,41.2 96.7,41.1 96.6,41 96.4,40.9 96.3,40.9 96.1,40.9 
+					95.9,40.9 95.7,40.9 95.5,41 95.4,41 95.2,41.1 95.1,41.3 94.9,41.4 94.8,41.5 94.7,41.7 94.6,41.9 94.5,42.1 94.4,42.2 
+					94.3,42.5 94.3,42.7 94.2,42.9 94.2,43.1 94.1,43.4 94.1,43.8 94.2,44.2 94.3,44.5 94.4,44.8 94.6,45.1 94.9,45.3 95.2,45.3 
+					95.2,45.3 				"/>
+				<polygon class="st3" points="48.6,45.5 48.3,47.2 46.4,47.2 46.4,46.8 46.5,46.6 46.5,46.3 46.5,46.2 46.4,46.4 46.3,46.5 
+					46.1,46.6 46,46.7 45.8,46.8 45.6,46.9 45.4,47 45.2,47.1 45,47.1 44.8,47.2 44.5,47.2 44.3,47.3 44.1,47.3 43.9,47.3 
+					43.7,47.3 43.5,47.2 43.2,47.2 43,47.1 42.7,47 42.6,46.9 42.4,46.8 42.2,46.6 42.1,46.5 42,46.3 41.9,46.2 41.8,46 41.8,45.8 
+					41.7,45.7 41.7,45.5 41.7,45.3 41.7,45.1 41.7,45 41.7,44.7 41.7,44.4 41.8,44.1 41.9,43.9 42,43.6 42.2,43.4 42.3,43.2 
+					42.5,43 42.7,42.8 42.9,42.7 43.1,42.5 43.4,42.4 43.6,42.3 43.9,42.2 44.1,42.2 44.4,42.1 44.4,42.1 44.4,42.1 44.5,42.1 
+					44.6,42.1 44.7,42.1 44.8,42.1 44.9,42 45,42 45.1,42 45.3,42 45.4,42 45.5,42 45.6,42 45.8,42 45.9,42 45.9,42 46.1,42 
+					46.3,42 46.5,42 46.6,42 46.8,42 46.9,42 47,42 47,42 47,41.9 47,41.8 47.1,41.6 47.1,41.5 47.1,41.3 47,41.2 46.9,41 
+					46.8,40.9 46.6,40.8 46.5,40.8 46.3,40.7 46.1,40.7 45.9,40.7 45.7,40.7 45.4,40.7 45.2,40.7 44.9,40.7 44.7,40.7 44.4,40.8 
+					44.2,40.8 44,40.8 43.8,40.9 43.6,40.9 43.4,40.9 43.2,41 43.1,41 43,41.1 42.9,41.1 43.4,39.3 43.6,39.2 43.8,39.2 43.9,39.1 
+					44.1,39.1 44.3,39 44.5,39 44.7,39 44.9,39 45.1,38.9 45.3,38.9 45.6,38.9 45.8,38.9 46,38.9 46.3,38.9 46.6,38.9 46.8,38.9 
+					47,39 47.3,39 47.5,39 47.7,39.1 48,39.2 48.2,39.3 48.4,39.4 48.6,39.6 48.8,39.8 49,39.9 49.2,40.1 49.3,40.4 49.3,40.6 
+					49.4,40.9 49.4,41.2 49.3,41.5 48.6,45.5 48.6,45.5 				"/>
+				<polyline class="st4" points="48.6,45.5 48.3,47.2 46.4,47.2 46.4,47.2 46.4,46.8 46.5,46.6 46.5,46.3 46.5,46.2 46.5,46.2 
+					46.4,46.4 46.3,46.5 46.1,46.6 46,46.7 45.8,46.8 45.6,46.9 45.4,47 45.2,47.1 45,47.1 44.8,47.2 44.5,47.2 44.3,47.3 
+					44.1,47.3 43.9,47.3 43.7,47.3 43.5,47.2 43.5,47.2 43.2,47.2 43,47.1 42.7,47 42.6,46.9 42.4,46.8 42.2,46.6 42.1,46.5 
+					42,46.3 41.9,46.2 41.8,46 41.8,45.8 41.7,45.7 41.7,45.5 41.7,45.3 41.7,45.1 41.7,45 41.7,45 41.7,44.7 41.7,44.4 41.8,44.1 
+					41.9,43.9 42,43.6 42.2,43.4 42.3,43.2 42.5,43 42.7,42.8 42.9,42.7 43.1,42.5 43.4,42.4 43.6,42.3 43.9,42.2 44.1,42.2 
+					44.4,42.1 44.4,42.1 44.4,42.1 44.4,42.1 44.5,42.1 44.6,42.1 44.7,42.1 44.8,42.1 44.9,42 45,42 45.1,42 45.3,42 45.4,42 
+					45.5,42 45.6,42 45.8,42 45.9,42 45.9,42 45.9,42 46.1,42 46.3,42 46.5,42 46.6,42 46.8,42 46.9,42 47,42 47,42 47,42 47,41.9 
+					47,41.8 47.1,41.6 47.1,41.5 47.1,41.5 47.1,41.3 47,41.2 46.9,41 46.8,40.9 46.6,40.8 46.5,40.8 46.3,40.7 46.1,40.7 
+					46.1,40.7 45.9,40.7 45.7,40.7 45.4,40.7 45.2,40.7 44.9,40.7 44.7,40.7 44.4,40.8 44.2,40.8 44,40.8 43.8,40.9 43.6,40.9 
+					43.4,40.9 43.2,41 43.1,41 43,41.1 42.9,41.1 43.4,39.3 43.4,39.3 43.6,39.2 43.8,39.2 43.9,39.1 44.1,39.1 44.3,39 44.5,39 
+					44.7,39 44.9,39 45.1,38.9 45.3,38.9 45.6,38.9 45.8,38.9 46,38.9 46.3,38.9 46.6,38.9 46.8,38.9 46.8,38.9 47,39 47.3,39 
+					47.5,39 47.7,39.1 48,39.2 48.2,39.3 48.4,39.4 48.6,39.6 48.8,39.8 49,39.9 49.2,40.1 49.3,40.4 49.3,40.6 49.4,40.9 
+					49.4,41.2 49.3,41.5 48.6,45.5 				"/>
+				<polygon class="st2" points="46.7,43.5 46.7,43.4 46.7,43.4 46.7,43.4 46.6,43.4 46.5,43.4 46.4,43.3 46.3,43.3 46.2,43.3 
+					46.1,43.4 45.9,43.4 45.8,43.4 45.7,43.4 45.6,43.4 45.5,43.4 45.4,43.5 45.3,43.5 45.2,43.5 45.2,43.5 45.1,43.6 45,43.6 
+					44.9,43.6 44.8,43.7 44.7,43.7 44.6,43.8 44.5,43.9 44.4,44 44.3,44 44.2,44.1 44.2,44.2 44.1,44.3 44.1,44.5 44,44.6 44,44.8 
+					44.1,45 44.1,45.2 44.2,45.3 44.4,45.4 44.5,45.4 44.6,45.5 44.7,45.5 45,45.5 45.2,45.4 45.4,45.4 45.5,45.4 45.7,45.3 
+					45.8,45.2 46,45.2 46.1,45.1 46.2,45 46.3,44.9 46.3,44.8 46.4,44.7 46.4,44.7 46.5,44.6 46.5,44.5 46.6,44.4 46.6,44.2 
+					46.7,43.9 46.7,43.7 46.7,43.5 46.7,43.5 				"/>
+				<polygon class="st3" points="32.6,47.2 30.5,47.2 32.3,37.2 35.9,37.2 36.2,43.1 38.7,37.2 42.4,37.2 40.7,47.2 38.6,47.2 
+					39.9,39.7 39.8,39.7 36.7,47.2 34.4,47.2 34.4,46.8 34.3,46 34.3,44.8 34.2,43.5 34.1,42.1 34,40.9 34,40.1 34,39.7 34,39.7 
+					33.9,39.7 33.9,39.7 33.9,39.7 32.6,47.2 32.6,47.2 				"/>
+				<polyline class="st4" points="32.6,47.2 30.5,47.2 32.3,37.2 35.9,37.2 36.2,43.1 38.7,37.2 42.4,37.2 40.7,47.2 38.6,47.2 
+					39.9,39.7 39.8,39.7 36.7,47.2 34.4,47.2 34.4,47.2 34.4,46.8 34.3,46 34.3,44.8 34.2,43.5 34.1,42.1 34,40.9 34,40.1 34,39.7 
+					34,39.7 34,39.7 33.9,39.7 33.9,39.7 33.9,39.7 32.6,47.2 				"/>
+				<polygon class="st3" points="86.3,45.5 85.9,47.2 84,47.2 84.1,46.8 84.1,46.6 84.1,46.4 84.1,46.3 84,46.4 83.9,46.5 
+					83.7,46.6 83.6,46.7 83.4,46.8 83.2,46.9 83,47 82.9,47.1 82.6,47.1 82.4,47.2 82.2,47.2 82,47.3 81.8,47.3 81.6,47.3 
+					81.4,47.3 81.2,47.2 80.9,47.2 80.7,47.1 80.4,47 80.2,46.9 80.1,46.8 79.9,46.6 79.8,46.5 79.7,46.3 79.6,46.2 79.5,46 
+					79.5,45.8 79.4,45.7 79.4,45.5 79.4,45.3 79.4,45.1 79.4,45 79.4,44.7 79.4,44.4 79.5,44.1 79.6,43.9 79.7,43.6 79.9,43.4 
+					80,43.2 80.2,43 80.4,42.8 80.6,42.7 80.8,42.5 81.1,42.4 81.3,42.3 81.5,42.2 81.8,42.2 82,42.1 82.1,42.1 82.1,42.1 
+					82.2,42.1 82.2,42.1 82.3,42.1 82.4,42.1 82.5,42 82.7,42 82.8,42 82.9,42 83.1,42 83.2,42 83.3,42 83.4,42 83.5,42 83.6,42 
+					83.8,42 84,42 84.1,42 84.3,42 84.5,42 84.6,42 84.6,42 84.7,42 84.7,41.9 84.7,41.8 84.7,41.6 84.8,41.5 84.7,41.3 84.7,41.2 
+					84.6,41 84.5,40.9 84.3,40.8 84.2,40.8 84,40.7 83.8,40.7 83.6,40.7 83.4,40.7 83.1,40.7 82.9,40.7 82.6,40.7 82.4,40.7 
+					82.2,40.8 81.9,40.8 81.7,40.8 81.5,40.9 81.3,40.9 81.1,40.9 80.9,41 80.8,41 80.7,41.1 80.6,41.1 81.1,39.3 81.3,39.2 
+					81.5,39.2 81.6,39.1 81.8,39.1 82,39 82.2,39 82.4,39 82.6,39 82.8,38.9 83,38.9 83.3,38.9 83.5,38.9 83.7,38.9 84,38.9 
+					84.2,38.9 84.5,38.9 84.7,39 84.9,39 85.2,39 85.4,39.1 85.6,39.2 85.9,39.3 86.1,39.4 86.3,39.6 86.5,39.8 86.7,39.9 
+					86.8,40.1 87,40.4 87,40.6 87.1,40.9 87.1,41.2 87,41.5 86.3,45.5 86.3,45.5 				"/>
+				<polygon class="st3" points="85.9,47.2 86,47.2 86.3,45.5 86.2,45.5 85.9,47.1 85.9,47.1 85.9,47.2 86,47.2 86,47.2 85.9,47.2 
+					85.9,47.2 				"/>
+				<polygon class="st3" points="84,47.2 84,47.2 85.9,47.2 85.9,47.1 84,47.1 84.1,47.2 84,47.2 84,47.2 84,47.2 84,47.2 84,47.2 
+									"/>
+				<polygon class="st3" points="84.1,46.3 84,46.2 84,46.4 84,46.6 84,46.8 84,47.2 84.1,47.2 84.1,46.8 84.1,46.6 84.1,46.4 
+					84.1,46.3 84,46.2 84.1,46.3 84.1,46.3 				"/>
+				<polygon class="st3" points="81.2,47.3 81.2,47.3 81.4,47.3 81.6,47.3 81.8,47.3 82,47.3 82.2,47.3 82.4,47.2 82.7,47.2 
+					82.9,47.1 83.1,47 83.3,46.9 83.4,46.9 83.6,46.8 83.8,46.6 83.9,46.5 84,46.4 84.1,46.3 84,46.2 83.9,46.4 83.8,46.5 
+					83.7,46.6 83.5,46.7 83.4,46.8 83.2,46.9 83,46.9 82.8,47 82.6,47.1 82.4,47.1 82.2,47.2 82,47.2 81.8,47.2 81.6,47.2 
+					81.4,47.2 81.2,47.2 81.2,47.2 81.2,47.3 81.2,47.3 				"/>
+				<polygon class="st3" points="79.3,45 79.3,45 79.3,45.1 79.3,45.3 79.4,45.5 79.4,45.7 79.4,45.8 79.5,46 79.6,46.2 79.7,46.3 
+					79.8,46.5 79.9,46.6 80,46.8 80.2,46.9 80.4,47 80.6,47.1 80.9,47.2 81.2,47.3 81.2,47.2 80.9,47.1 80.7,47 80.5,46.9 
+					80.3,46.8 80.1,46.7 80,46.6 79.8,46.4 79.7,46.3 79.7,46.1 79.6,46 79.5,45.8 79.5,45.6 79.5,45.5 79.4,45.3 79.4,45.1 
+					79.4,45 79.4,45 79.3,45 79.3,45 				"/>
+				<polygon class="st3" points="82,42.1 82,42.1 81.8,42.1 81.5,42.2 81.3,42.3 81,42.4 80.8,42.5 80.6,42.6 80.4,42.8 80.2,43 
+					80,43.2 79.8,43.4 79.7,43.6 79.6,43.9 79.5,44.1 79.4,44.4 79.3,44.7 79.3,45 79.4,45 79.4,44.7 79.5,44.4 79.5,44.1 
+					79.6,43.9 79.8,43.7 79.9,43.4 80.1,43.2 80.2,43 80.4,42.9 80.6,42.7 80.8,42.6 81.1,42.5 81.3,42.3 81.6,42.3 81.8,42.2 
+					82,42.2 82,42.2 82,42.1 82,42.1 				"/>
+				<polygon class="st3" points="83.6,41.9 83.6,41.9 83.5,41.9 83.4,41.9 83.3,41.9 83.2,41.9 83.1,41.9 82.9,42 82.8,42 82.7,42 
+					82.5,42 82.4,42 82.3,42 82.2,42 82.2,42 82.1,42.1 82.1,42.1 82,42.1 82,42.2 82.1,42.2 82.1,42.1 82.2,42.1 82.2,42.1 
+					82.3,42.1 82.4,42.1 82.5,42.1 82.7,42.1 82.8,42.1 82.9,42 83.1,42 83.2,42 83.3,42 83.4,42 83.5,42 83.6,42 83.6,42 
+					83.6,41.9 83.6,41.9 				"/>
+				<polygon class="st3" points="84.6,42 84.7,41.9 84.6,41.9 84.6,41.9 84.5,41.9 84.3,41.9 84.1,41.9 84,41.9 83.8,41.9 
+					83.6,41.9 83.6,42 83.8,42 84,42 84.1,42 84.3,42 84.5,42 84.6,42 84.6,42 84.7,42 84.7,42 84.7,42 84.7,42 84.7,42 84.6,42 
+					84.6,42 				"/>
+				<polygon class="st3" points="84.7,41.5 84.7,41.5 84.7,41.6 84.7,41.8 84.6,41.9 84.6,42 84.7,42 84.7,41.9 84.8,41.8 
+					84.8,41.6 84.8,41.5 84.8,41.5 84.7,41.5 84.7,41.5 				"/>
+				<polygon class="st3" points="83.8,40.7 83.8,40.8 84,40.8 84.1,40.8 84.3,40.9 84.4,41 84.5,41.1 84.6,41.2 84.7,41.3 
+					84.7,41.5 84.8,41.5 84.8,41.3 84.7,41.2 84.6,41 84.5,40.9 84.3,40.8 84.2,40.7 84,40.7 83.8,40.6 83.8,40.7 83.8,40.7 
+					83.8,40.7 				"/>
+				<polygon class="st3" points="80.6,41.1 80.6,41.2 80.7,41.1 80.8,41.1 80.9,41 81.1,41 81.3,40.9 81.5,40.9 81.7,40.9 
+					81.9,40.8 82.2,40.8 82.4,40.8 82.6,40.8 82.9,40.7 83.1,40.7 83.4,40.7 83.6,40.7 83.8,40.7 83.8,40.7 83.6,40.6 83.4,40.6 
+					83.1,40.6 82.9,40.6 82.6,40.7 82.4,40.7 82.2,40.7 81.9,40.7 81.7,40.8 81.5,40.8 81.3,40.8 81.1,40.9 80.9,40.9 80.8,41 
+					80.7,41 80.6,41.1 80.6,41.1 80.6,41.1 80.6,41.1 				"/>
+				<polygon class="st3" points="81.1,39.2 81.1,39.3 80.6,41.1 80.6,41.1 81.2,39.3 81.1,39.3 81.1,39.2 81.1,39.3 81.1,39.3 
+					81.1,39.2 81.1,39.2 				"/>
+				<polygon class="st3" points="84.5,38.9 84.5,38.9 84.2,38.9 84,38.9 83.7,38.9 83.5,38.9 83.3,38.9 83,38.9 82.8,38.9 
+					82.6,38.9 82.4,38.9 82.2,39 82,39 81.8,39 81.6,39.1 81.5,39.1 81.3,39.2 81.1,39.2 81.1,39.3 81.3,39.3 81.5,39.2 81.7,39.2 
+					81.8,39.1 82,39.1 82.2,39 82.4,39 82.6,39 82.8,39 83,39 83.3,39 83.5,39 83.7,39 84,39 84.2,39 84.5,39 84.5,39 84.5,38.9 
+					84.5,38.9 				"/>
+				<polygon class="st3" points="87.1,41.5 87.1,41.5 87.1,41.2 87.1,40.9 87.1,40.6 87,40.4 86.9,40.1 86.7,39.9 86.5,39.7 
+					86.4,39.5 86.1,39.4 85.9,39.3 85.7,39.2 85.4,39.1 85.2,39 84.9,38.9 84.7,38.9 84.5,38.9 84.5,39 84.7,39 84.9,39 85.2,39.1 
+					85.4,39.2 85.6,39.3 85.9,39.4 86.1,39.5 86.3,39.6 86.5,39.8 86.6,40 86.8,40.2 86.9,40.4 87,40.6 87,40.9 87,41.2 87,41.5 
+					87,41.5 87.1,41.5 87.1,41.5 				"/>
+				<polygon class="st3" points="86.3,45.5 86.3,45.5 87.1,41.5 87,41.5 86.2,45.5 86.2,45.5 86.3,45.5 86.3,45.5 				"/>
+				<polygon class="st1" points="84.4,43.5 84.4,43.4 84.4,43.4 84.3,43.4 84.2,43.4 84.2,43.3 84.1,43.3 83.9,43.3 83.8,43.3 
+					83.7,43.4 83.6,43.4 83.5,43.4 83.4,43.4 83.2,43.4 83.1,43.4 83,43.5 83,43.5 82.9,43.5 82.9,43.5 82.8,43.5 82.7,43.6 
+					82.6,43.6 82.5,43.7 82.4,43.7 82.3,43.8 82.2,43.9 82.1,43.9 82,44 81.9,44.1 81.9,44.2 81.8,44.3 81.8,44.5 81.7,44.6 
+					81.7,44.8 81.8,45 81.8,45.2 81.9,45.3 82,45.4 82.2,45.4 82.3,45.5 82.4,45.5 82.7,45.5 82.9,45.4 83.1,45.4 83.2,45.3 
+					83.4,45.3 83.5,45.2 83.7,45.1 83.8,45 83.9,45 84,44.9 84.1,44.8 84.2,44.7 84.2,44.6 84.2,44.5 84.3,44.4 84.3,44.3 
+					84.3,44.1 84.4,43.9 84.4,43.7 84.4,43.5 84.4,43.5 				"/>
+				<polygon class="st3" points="100.1,46.1 100.1,45.9 100.1,45.7 100.2,45.6 100.4,45.4 100.5,45.3 100.7,45.2 100.9,45.1 
+					101.1,45.1 101.3,45.1 101.5,45.2 101.7,45.3 101.9,45.4 102,45.6 102.1,45.7 102.2,45.9 102.2,46.1 101.9,46.1 101.9,46 
+					101.9,45.8 101.8,45.7 101.7,45.5 101.6,45.4 101.5,45.3 101.3,45.3 101.1,45.3 100.9,45.3 100.8,45.3 100.6,45.4 100.5,45.5 
+					100.4,45.7 100.3,45.8 100.3,46 100.3,46.1 100.1,46.1 100.1,46.1 				"/>
+				<polygon class="st3" points="100.7,46.1 100.7,45.7 101.2,45.7 101.2,45.7 101.3,45.7 101.4,45.7 101.4,45.7 101.5,45.8 
+					101.5,45.8 101.5,45.9 101.5,45.9 101.5,46 101.5,46.1 101.5,46.1 101.5,46.1 101.2,46.1 101.2,46.1 101.2,46.1 101.3,46.1 
+					101.3,46.1 101.4,46 101.4,46 101.4,46 101.4,45.9 101.4,45.9 101.4,45.9 101.3,45.8 101.3,45.8 101.3,45.8 101.2,45.8 
+					101.2,45.8 101.2,45.8 100.9,45.8 100.9,46.1 100.7,46.1 100.7,46.1 				"/>
+				<polygon class="st3" points="100.1,46.1 100,46.2 100.1,46.4 100.1,46.6 100.2,46.8 100.4,46.9 100.5,47 100.7,47.1 100.9,47.2 
+					101.1,47.2 101.3,47.2 101.5,47.1 101.7,47 101.9,46.9 102,46.8 102.1,46.6 102.2,46.4 102.2,46.2 102.2,46.1 101.9,46.1 
+					102,46.2 101.9,46.3 101.9,46.5 101.8,46.7 101.7,46.8 101.6,46.9 101.5,47 101.3,47 101.1,47 100.9,47 100.8,47 100.6,46.9 
+					100.5,46.8 100.4,46.7 100.3,46.5 100.3,46.3 100.3,46.2 100.3,46.1 100.1,46.1 100.1,46.1 				"/>
+				<polygon class="st3" points="100.7,46.1 100.7,46.6 100.9,46.6 100.9,46.2 101.1,46.2 101.3,46.6 101.5,46.6 101.3,46.2 
+					101.3,46.2 101.4,46.2 101.4,46.2 101.5,46.1 101.5,46.1 101.2,46.1 101.1,46.1 100.9,46.1 100.9,46.1 100.7,46.1 100.7,46.1 
+									"/>
+				<path class="st4" d="M100,46.2L100,46.2l0-0.2l0.1-0.2l0.1-0.2l0.1-0.2l0.2-0.1l0.2-0.1l0.2-0.1l0.2,0l0,0l0.2,0l0.2,0.1
+					l0.2,0.1l0.2,0.1l0.1,0.2l0.1,0.2l0.1,0.2l0,0.2l0,0l0,0.2l-0.1,0.2l-0.1,0.2l-0.1,0.2l-0.2,0.1l-0.2,0.1l-0.2,0.1l-0.2,0l0,0
+					l-0.2,0l-0.2-0.1l-0.2-0.1l-0.2-0.1l-0.1-0.2l-0.1-0.2l-0.1-0.2L100,46.2 M100.9,46.6h-0.2v-0.9h0.4l0,0l0.1,0l0.1,0l0.1,0
+					l0.1,0l0,0l0,0l0,0.1l0,0.1l0,0l0,0.1l0,0.1l0,0l0,0l0,0l0,0l-0.1,0h-0.1l0.2,0.4h-0.2l-0.2-0.4h-0.2V46.6 M101.1,46.1
+					L101.1,46.1L101.1,46.1l0.1,0l0,0l0,0l0,0l0,0l0,0v-0.1l0,0l0,0l0,0l0,0l0,0l0,0l0,0h0h0h-0.2v0.3H101.1 M101.1,47L101.1,47
+					l0.2,0l0.2-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0-0.2l0-0.2l0,0l0-0.2l0-0.2l-0.1-0.2l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.2-0.1
+					l-0.2,0l0,0l-0.2,0l-0.2,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.2l0,0.2l0,0.2l0,0l0,0.2l0,0.2l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1
+					l0.2,0.1L101.1,47"/>
+				<polygon class="st3" points="86.8,47.2 89,47.2 89,47.2 89.7,42.8 89.8,42.7 89.8,42.5 89.9,42.3 89.9,42.2 90,42 90.1,41.8 
+					90.2,41.7 90.3,41.5 90.4,41.4 90.6,41.3 90.8,41.2 91,41.1 91.2,41 91.4,41 91.7,40.9 92,40.9 92.1,40.9 92.1,40.9 92.2,40.9 
+					92.2,40.9 92.5,38.9 92.3,39 92.1,39 91.9,39 91.7,39.1 91.6,39.1 91.4,39.2 91.2,39.3 91.1,39.4 91,39.5 90.8,39.6 90.7,39.7 
+					90.6,39.8 90.5,40 90.4,40.1 90.3,40.2 90.1,40.4 90.4,39 88.2,39 86.8,47.2 86.8,47.2 86.8,47.2 				"/>
+				<polyline class="st4" points="86.8,47.2 89,47.2 89,47.2 89.7,42.8 89.7,42.8 89.8,42.7 89.8,42.5 89.9,42.3 89.9,42.2 90,42 
+					90.1,41.8 90.2,41.7 90.3,41.5 90.4,41.4 90.6,41.3 90.8,41.2 91,41.1 91.2,41 91.4,41 91.7,40.9 92,40.9 92,40.9 92.1,40.9 
+					92.1,40.9 92.2,40.9 92.2,40.9 92.5,38.9 92.5,38.9 92.3,39 92.1,39 91.9,39 91.7,39.1 91.6,39.1 91.4,39.2 91.2,39.3 
+					91.1,39.4 91,39.5 90.8,39.6 90.7,39.7 90.6,39.8 90.5,40 90.4,40.1 90.3,40.2 90.1,40.4 90.4,39 88.2,39 86.8,47.2 86.8,47.2 
+									"/>
+				<polygon class="st3" points="66.7,47.2 68.9,47.2 68.9,47.2 69.6,42.8 69.7,42.7 69.7,42.5 69.7,42.3 69.8,42.2 69.8,42 
+					69.9,41.9 70,41.8 70.1,41.6 70.2,41.5 70.4,41.4 70.5,41.3 70.7,41.2 70.9,41.2 71.2,41.1 71.4,41.1 71.7,41 71.8,41 71.8,41 
+					71.8,41.1 71.9,41.1 71.9,41.1 71.9,41.1 71.9,41.1 72,41.1 72,41 72,41 72,40.8 72.1,40.7 72.1,40.5 72.2,40.2 72.2,40 
+					72.3,39.8 72.4,39.7 72.4,39.5 72.5,39.4 72.6,39.3 72.7,39.1 72.7,39.1 72.7,39 72.8,39 72.8,39 72.7,39 72.7,39 72.6,39 
+					72.6,39 72.5,38.9 72.5,38.9 72.4,38.9 72.2,39 72,39 71.8,39 71.6,39.1 71.4,39.1 71.3,39.2 71.1,39.3 71,39.4 70.8,39.5 
+					70.7,39.6 70.6,39.7 70.5,39.8 70.4,39.9 70.3,40.1 70.2,40.2 70,40.4 70.3,39 68.1,39 66.7,47.2 66.7,47.2 66.7,47.2 				"/>
+				<polyline class="st4" points="66.7,47.2 68.9,47.2 68.9,47.2 69.6,42.8 69.6,42.8 69.7,42.7 69.7,42.5 69.7,42.3 69.8,42.2 
+					69.8,42 69.9,41.9 70,41.8 70.1,41.6 70.2,41.5 70.4,41.4 70.5,41.3 70.7,41.2 70.9,41.2 71.2,41.1 71.4,41.1 71.7,41 71.7,41 
+					71.8,41 71.8,41 71.8,41.1 71.9,41.1 71.9,41.1 71.9,41.1 71.9,41.1 72,41.1 72,41.1 72,41 72,41 72,40.8 72.1,40.7 72.1,40.5 
+					72.2,40.2 72.2,40 72.3,39.8 72.3,39.8 72.4,39.7 72.4,39.5 72.5,39.4 72.6,39.3 72.7,39.1 72.7,39.1 72.7,39 72.8,39 72.8,39 
+					72.8,39 72.7,39 72.7,39 72.6,39 72.6,39 72.5,38.9 72.5,38.9 72.4,38.9 72.4,38.9 72.2,39 72,39 71.8,39 71.6,39.1 71.4,39.1 
+					71.3,39.2 71.1,39.3 71,39.4 70.8,39.5 70.7,39.6 70.6,39.7 70.5,39.8 70.4,39.9 70.3,40.1 70.2,40.2 70,40.4 70.3,39 68.1,39 
+					66.7,47.2 66.7,47.2 				"/>
+				<polygon class="st1" points="100.1,55.1 100.1,55.1 100.1,54.9 100.2,54.7 100.4,54.6 100.5,54.5 100.7,54.4 100.9,54.3 
+					101.1,54.3 101.3,54.3 101.5,54.4 101.7,54.5 101.9,54.6 102,54.7 102.1,54.9 102.2,55.1 102.2,55.1 101.9,55.1 101.9,55 
+					101.8,54.8 101.7,54.7 101.6,54.6 101.5,54.5 101.3,54.5 101.1,54.4 100.9,54.5 100.8,54.5 100.6,54.6 100.5,54.7 100.4,54.8 
+					100.3,55 100.3,55.1 100.1,55.1 100.1,55.1 				"/>
+				<polygon class="st1" points="100.7,55.1 100.7,54.9 101.2,54.9 101.2,54.9 101.3,54.9 101.4,54.9 101.4,54.9 101.5,55 101.5,55 
+					101.5,55.1 101.5,55.1 101.4,55.1 101.4,55.1 101.4,55.1 101.4,55 101.3,55 101.3,55 101.3,55 101.2,55 101.2,55 101.2,55 
+					100.9,55 100.9,55.1 100.7,55.1 100.7,55.1 				"/>
+				<polygon class="st1" points="100,55.3 100.1,55.1 100.3,55.1 100.3,55.1 100.3,55.3 100,55.3 100,55.3 				"/>
+				<polygon class="st1" points="100.7,55.3 100.7,55.1 100.9,55.1 100.9,55.3 101.1,55.3 101.2,55.3 101.2,55.3 101.3,55.3 
+					101.3,55.2 101.4,55.2 101.4,55.2 101.4,55.2 101.4,55.1 101.5,55.1 101.5,55.1 101.5,55.2 101.5,55.2 101.5,55.3 101.5,55.3 
+					100.7,55.3 100.7,55.3 				"/>
+				<polygon class="st1" points="102,55.3 101.9,55.1 101.9,55.1 102.2,55.1 102.2,55.3 102,55.3 102,55.3 				"/>
+				<polygon class="st1" points="100,55.3 100,55.3 100.1,55.5 100.1,55.8 100.2,55.9 100.4,56.1 100.5,56.2 100.7,56.3 100.9,56.4 
+					101.1,56.4 101.3,56.4 101.5,56.3 101.7,56.2 101.9,56.1 102,55.9 102.1,55.8 102.2,55.5 102.2,55.3 102.2,55.3 102,55.3 
+					102,55.3 101.9,55.5 101.9,55.7 101.8,55.8 101.7,55.9 101.6,56.1 101.5,56.1 101.3,56.2 101.1,56.2 100.9,56.2 100.8,56.1 
+					100.6,56.1 100.5,55.9 100.4,55.8 100.3,55.7 100.3,55.5 100.3,55.3 100.3,55.3 100,55.3 100,55.3 				"/>
+				<polygon class="st1" points="100.7,55.3 100.7,55.7 100.9,55.7 100.9,55.4 101.1,55.4 101.3,55.7 101.5,55.7 101.3,55.4 
+					101.3,55.4 101.4,55.4 101.4,55.3 101.5,55.3 101.5,55.3 100.7,55.3 100.7,55.3 				"/>
+				<path class="st3" d="M67,41.4L66.9,41l-0.1-0.4l-0.2-0.3l-0.2-0.3l-0.2-0.3L66,39.5l-0.3-0.2l-0.3-0.1L65.1,39L64.8,39l-0.3-0.1
+					l-0.3,0l-0.3,0l-0.6,0L62.7,39l-0.5,0.1l-0.4,0.2l-0.4,0.2l-0.3,0.3l-0.3,0.3l-0.2,0.3l-0.2,0.3L60.1,41L60,41.4l-0.1,0.3
+					L59.8,42l-0.1,0.3l0,0.3l0,0.2l0,0.6l0,0.6l0.1,0.5l0.1,0.4l0.2,0.4l0.2,0.3l0.3,0.3l0.3,0.3l0.3,0.2l0.3,0.2l0.4,0.1l0.4,0.1
+					l0.4,0.1l0.4,0.1l0.4,0l0.4,0H64l0.2,0h0.2l0.2,0l0.2,0l0.2,0l0.2,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1-0.1l0.1-0.1
+					l0.3-1.9L66.3,45l-0.2,0.1l-0.2,0.1l-0.2,0.1l-0.2,0.1l-0.2,0l-0.2,0l-0.2,0l-0.2,0l-0.2,0h-0.2l-0.2,0l-0.2,0l-0.2,0l-0.2,0
+					l-0.2,0l-0.2,0l-0.2-0.1l-0.2-0.1l-0.1-0.1l-0.1-0.1L62.4,45l-0.1-0.1l-0.1-0.1l-0.1-0.1L62,44.4l-0.1-0.1l-0.1-0.1l0-0.1l0-0.1
+					l0-0.1l0-0.1h4.9l0-0.5l0.1-0.6L67,42L67,41.4z M64.9,42.1h-2.8l0,0l0,0l0-0.1l0-0.2l0-0.2l0.1-0.2l0.1-0.1l0.1-0.1l0.1-0.1
+					l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0.1l0.1,0.1l0.1,0.1
+					l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0,0.2l0,0.2l0,0.2L64.9,42.1z"/>
+			</g>
+		</g>
+	</g>
+</switch>
+</svg>
