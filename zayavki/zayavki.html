@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            padding: 40px 50px;
+        }
+        .page{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+
+
+        }
+        .left{
+            display: flex;
+            flex-direction: column;
+
+        }
+        .spisok{
+            display: flex;
+            flex-direction: column;
+            border: 3px solid black;
+            border-radius: 10px;
+            margin-bottom: 50px;
+        }
+        .kolonki{
+            display: flex;
+            flex-direction: row;
+
+        }
+        .spisok a{
+            text-decoration: none;
+            color: black;
+            padding: 10px;
+
+        }
+        .zaem{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border-top: 1px solid lightgrey;
+
+        }
+        .zaem a{
+            padding: 20px 0 10px;
+            font-size: 20px;
+            color: lightblue;
+
+        }
+        .cont{
+            border: 3px solid black;
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 220px;
+
+        }
+        .kolonki{
+            width: 1100px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            padding: 0 20px;
+        }
+        .bold{
+            font-weight: bold;
+        }
+        .one{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            line-height: 0;
+        }
+        .two{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            line-height: 0;
+        }
+        .three{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            line-height: 0;
+        }
+        .four{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            line-height: 0;
+        }
+
+    </style>
+</head>
+<body>
+<div class="page">
+    <div class="left">
+        <div class="spisok">
+            <a href="">Моя карточка</a>
+            <a href="">Активный заем</a>
+            <a href="">Мои займы</a>
+            <a href="">Мои заявки</a>
+            <a href="">Мои банковские карты</a>
+            <a href="">Анкета-заявление</a>
+            <a href="">Мои документы</a>
+            <a href="">Мои платежи</a>
+            <a href="">Выход</a>
+        </div>
+        <div class="zaem">
+            <a href="">Оформить заем</a>
+            <p style="line-height: 0">Вы уже подали заявку или имеете</p>
+            <p style="line-height: 0">активный заем. Действие недоступно</p>
+        </div>
+    </div>
+    <div class="cont">
+        <p style="font-size: 20px">Мои заявки</p>
+        <div class="kolonki">
+            <div class="one">
+                <p class="bold">Номер заявки</p>
+                <p>ДЛОР-273874</p>
+                <p>ЯЧСМИ-234567</p>
+                <p>ГОЬНРТ-5678908</p>
+            </div>
+            <div class="two">
+                <p class="bold">Дата</p>
+                <p>02.09.2021</p>
+                <p>24.06.2021</p>
+                <p>03.04.2021</p>
+            </div>
+            <div class="three">
+                <p class="bold">Сумма</p>
+                <p>85000.00</p>
+                <p>41000.00</p>
+                <p>32000.00</p>
+            </div>
+            <div class="four">
+                <p class="bold">Статус</p>
+                <p>Заем выдан</p>
+                <p>Отказ клиента</p>
+                <p>Закрыт</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
