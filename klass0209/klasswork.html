@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .yslygi{
+            display: flex;
+            flex-direction: row;
+            align-items: flex-end;
+            font-size: 40px;
+            font-weight: bold;
+            padding: 0 100px;
+
+        }
+        #nashi{
+            padding-right: 5px;
+            color: #2cb234;
+            border-top: 4px solid black;
+            padding-top: 5px;
+
+
+        }
+        .contents{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            padding: 20px 100px;
+        }
+        .kolonki{
+            border: 1px solid lightgrey;
+            width: 400px;
+            height: 520px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            box-shadow: 0 5px 21px 5px rgb(34, 60, 80), 0 17px 0 -5px rgb(35, 193, 7);
+            transition: 1s;
+
+        }
+        .kolonki:hover{
+            transform: scale(1.1);
+            box-shadow: 0 5px 21px 5px rgba(34, 60, 80, 0.6), 0 17px 0 -5px rgba(35, 193, 7, 0.6);
+        }
+        .kolonki img{
+            width: 300px;
+            padding: 40px;
+
+        }
+        .kolonki p{
+            font-size: 50px;
+            margin: 0 55px;
+            text-align: center;
+
+
+
+
+
+        }
+    </style>
+</head>
+<body>
+<div class="yslygi">
+    <p id="nashi">НАШИ</p>
+    <p>УСЛУГИ</p>
+</div>
+<div class="contents">
+    <div class="one" title="Разработка ПО">
+    <div class="kolonki">
+        <img src="one.jpg">
+        <p>Разработка ПО</p>
+    </div>
+    </div>
+    <div class="kolonki">
+        <div class="two" title="Интернет решения">
+        <img src="two.jpg">
+        <p>Интернет решения</p>
+        </div>
+    </div>
+    <div class="kolonki">
+        <div class="three" title="Консалтинг в сфере ИТ и бизнеса">
+        <img src="three.jpg">
+        <p>Консалтинг в сфере ИТ и бизнеса</p>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
