@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            background: #f6f7fb;
+        }
+        .header{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+        .header p{
+            padding: 30px 10px;
+        }
+        #prog{
+            color: red;
+        }
+        .kartinki{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: flex-end;
+            text-align: center;
+        }
+        .start{
+            border: 1px solid gray;
+            width: 400px;
+
+        }
+        .hit{
+            border: 1px solid gray;
+            height: 500px;
+            display: flex;
+            flex-direction: column;
+            justify-content: end;
+            width: 400px;
+            align-items: center;
+
+
+        }
+        .max{
+            border: 1px solid gray;
+            width: 400px;
+        }
+        .kartinki input {
+            background: #f24729;
+            color: white;
+            padding: 20px;
+            width: 300px;
+            border: none;
+        }
+        .kartinki h2{
+            border-bottom: 1px solid #9b999a;
+            padding-bottom: 20px;
+            align-self: stretch;
+
+        }
+
+
+
+
+
+    </style>
+</head>
+<body>
+<div class="header">
+    <p>НАШИ</p>
+    <p id="prog">ПРОГРАММЫ</p>
+    <p>ЗАЙМОВ</p>
+</div>
+<div class="kartinki">
+    <div class="start">
+        <div class="text"> <h2>Старт</h2></div>
+        <img src="ico11.png">
+            <div class="text"><h1>до 15 000 </h1></div>
+                <div class="text"><p>до 15 дней</p></div>
+                    <div class="text"><p>0% в день</p></div>
+        <p><input type="button" value="Подробнее"></p>
+    </div>
+    <div class="hit">
+        <h2>Хит</h2></div>
+        <img src="ico12.png">
+        <h1>до 30 000 </h1>
+        <p>до 30 дней</p>
+        <p>0.9% в день</p>
+
+        <p><input type="button" value="Подробнее"></p>
+
+    </div>
+    <div class="max">
+        <div class="text"> <h2>Макс</h2></div>
+        <img src="ico13.png">
+
+        <div class="text"><h1>до 60 000 </h1></div>
+        <div class="text"><p>от 10 до 20 недель</p></div>
+        <div class="text"><p>0.65% в день</p></div>
+        <p><input type="button" value="Подробнее"></p>
+    </div>
+</div>
+
+</body>
+</html>

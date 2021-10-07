@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/bda932dcf2.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <title>Title</title>
+    <style>
+        .header{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin: 0 -120px;
+
+        }
+        .logo1{
+            display: flex;
+            flex-direction: row;
+        }
+
+        .logo img{
+            width: 100px;
+        }
+        .info{
+            font-size: 20px;
+            color: #9b999a;
+            margin-top: 20px;
+            font-family: Bahnschrift;
+
+
+        }
+        .search{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin-top: 40px;
+            font-size: 25px;
+
+        }
+        .search a{
+            text-decoration: none;
+            color: #5884c6;
+            padding-left: 50px;
+            font-family: Bahnschrift;
+            transition: 1s;
+
+        }
+        .search a:hover{
+            transform: scale(1.2);
+            color: #6058cc;
+        }
+        body {
+            max-width: 37.5rem;
+            margin: 0 auto;
+            padding: 0 1.25rem;
+        }
+        #first-car{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+        #calculate{
+            display: flex;
+            flex-direction: column;
+            width: 600px;
+            margin-top: 150px;
+            font-size: 20px;
+        }
+        #calculate a{
+            padding: 20px 100px;
+            background: #ed1c24;
+            border-radius: 10px;
+            margin: 0 auto;
+            color: #ffffff;
+            text-decoration: none;
+        }
+        #calculate a:hover{
+            transform: scale(1.1);
+        }
+        #calculate1{
+            display: flex;
+            flex-direction: column;
+            width: 600px;
+            margin-top: 150px;
+            font-size: 20px;
+        }
+        #calculate1 a{
+            padding: 20px 100px;
+            background: #ed1c24;
+            border-radius: 10px;
+            margin: 0 auto;
+            color: #ffffff;
+            text-decoration: none;
+        }
+        #calculate1 a:hover{
+            transform: scale(1.1);
+        }
+        .car-img img{
+            width: 250px;
+            margin-top: 100px;
+        }
+        #carouselExampleIndicators{
+            width: 900px;
+            height: 500px;
+            margin-left: -120px;
+            margin-top: 40px;
+        }
+        .carousel-indicators li{
+            background: black;
+        }
+
+
+
+
+
+
+    </style>
+</head>
+<body>
+<div class="header">
+    <div class="logo1">
+    <div class="logo">
+        <img src="лого.png">
+    </div>
+    <div class="info">
+        <p style="padding-left: 10px">Медицинские логистические системы</p>
+    </div>
+    </div>
+    <div class="search">
+
+        <a href="">Компания</a>
+        <a href="">Услуги</a>
+        <a href="">Вакансии</a>
+        <a href="">Контакты</a>
+    </div>
+
+</div>
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active" id="first-car">
+            <div id="calculate">
+                <p class="d-block w-100">Стоимость перевозок по городу фиксированная - 1500 рублей. Вы можете расчитать стоимость междугородних перевозок</p>
+                <a href="" class="d-block w-100">Узнать цену</a>
+            </div>
+            <div class="car-img">
+                <img src="../papa/цена.jpg">
+            </div>
+        </div>
+        <div class="carousel-item" >
+            <div id="calculate1" class="d-block w-100">
+                <p class="d-block w-100">Стоимость перевозок по городу фиксированная - 1500 рублей. Вы можете расчитать стоимость междугородних перевозок</p>
+                <a href="" class="d-block w-100">Узнать цену</a>
+            </div>
+            <div class="car-img">
+                <img src="../papa/работа.jpeg">
+            </div>
+        </div>
+        <div class="carousel-item">
+
+        </div>
+    </div>
+</div>
+</body>
+</html>
