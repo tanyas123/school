@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/bda932dcf2.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <title>Title</title>
+    <style>
+        .header{
+            display: flex;
+            flex-direction: row;
+            margin: 0 100px;
+        }
+        .header-search{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin-left: 70px;
+
+        }
+        .header-search a{
+            margin: 30px;
+            font-size: 30px;
+            text-decoration: none;
+            color: #5884c6;
+            font-family: Bahnschrift,sans-serif;
+        }
+        .header-search a:hover{
+            text-decoration: none;
+            transform: scale(1.1);
+        }
+        .header-logo img{
+            width: 300px;
+        }
+        #zayavka{
+            padding: 10px;
+            background: #c81e21;
+            color: white;
+            border-radius: 10px;
+            font-size: 18px;
+        }
+        #carou-img{
+            background: #a7e3d6;
+            display: flex;
+            flex-direction: row;
+            margin-top: 50px;
+        }
+        #carou-img1{
+            background: #87bdd0;
+            display: flex;
+            flex-direction: row;
+            margin-top: 50px;
+        }
+        #carou-img2{
+            background: #5884c6;
+            display: flex;
+            flex-direction: row;
+            margin-top: 50px;
+        }
+        .carou-text{
+            display: flex;
+            flex-direction: column;
+            color: black;
+            margin: 150px;
+        }
+        .carou-text p{
+            font-size: 30px;
+        }
+        .carou-text a{
+            padding: 20px;
+            background: #c81e21;
+            color: white;
+            border-radius: 10px;
+            text-decoration: none;
+            width: 300px;
+            text-align: center;
+        }
+        .carou-text a:hover{
+            text-decoration: none;
+        }
+        #strong{
+            color: #c81e21;
+        }
+        .car-img img{
+            width: 450px;
+            margin-right: 100px;
+            margin-top: 70px;
+        }
+        #carou li{
+            border-radius: 50%;
+            width: 10px;
+            height: 10px;
+            margin: 10px;
+
+        }
+    </style>
+</head>
+<body>
+<div class="header">
+    <div class="header-logo">
+        <img src="logo.png">
+    </div>
+    <div class="header-search">
+        <a href="main.html">Главная</a>
+        <a href="">Машины</a>
+        <a href="vacansii.html">Вакансии</a>
+        <a href="">Контакты</a>
+        <a href="zayavka.html" id="zayavka">Оставить заявку</a>
+    </div>
+</div>
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators" id="carou">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <div id="carou-img">
+                <div class="carou-text">
+                    <p>Цена перевозки по городу фиксирована и составляет <strong id="strong">1500</strong> рублей. Вы можете оставить заявку на нашем сайте, и мы свяжемся с Вами.</p>
+                    <a href="zayavka.html">Оставить заявку</a>
+                </div>
+                <div class="car-img">
+                    <img src="money.png">
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div id="carou-img1">
+                <div class="carou-text">
+                    <p>В нашу команду требуются сотрудники! Позвоните нам, если Вас заинтересовали наши вакансии.</p>
+                    <a href="">Контакты</a>
+                </div>
+                <div class="car-img">
+                    <img src="hands.png">
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div id="carou-img2">
+                <div class="carou-text">
+                    <p>Нашим клиентам мы предоставляем лучшее! Посмотрите на наши автомобили и убедитесь сами.</p>
+                    <a href="">Посмотреть</a>
+                </div>
+                <div class="car-img">
+                    <img src="car.png">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
